@@ -207,3 +207,6 @@ footer{
 .social-menu ul li:nth-child(3) a:hover{
     background-color: #00ACEE;
 }
+.callus{
+    color: darkgray;
+}
